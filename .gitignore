@@ -24,3 +24,6 @@ hs_err_pid*
 
 # application configuration file
 configuration.properties
+
+#target folder
+target/
