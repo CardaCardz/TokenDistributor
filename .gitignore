@@ -27,3 +27,6 @@ configuration.properties
 
 #target folder
 target/
+
+#idea folder
+.idea/
